@@ -8,6 +8,6 @@ A small game studio making tabletop and mobile games.
 
 ## Projects
 
-- **[ByteFall](https://github.com/EmptyFishTank-JB/ByteFall)** — falling-bit puzzle game with a hacker-terminal look, for Android and the web: decrypt bits in chains, break encryption layers, play the daily challenges and the arcade, or take on the CPU in VS. Coming to Google Play; [play it in the browser](https://emptyfishtank-jb.github.io/ByteFall/bytefall.html)
+- **ByteFall** — falling-bit puzzle game with a hacker-terminal look, for Android: decrypt bits in chains, break encryption layers, play the daily challenges and the arcade, or take on the CPU in VS. Coming to Google Play ([privacy policy](https://emptyfishtank-jb.github.io/bytefall/privacy.html))
 - **ECHOES** — board game
 - **Hearsay** — small-box party game, paper-prototype stage
